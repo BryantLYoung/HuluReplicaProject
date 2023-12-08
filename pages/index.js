@@ -11,8 +11,8 @@ export default function Home({ results }) {
   return (
     <div>
       <Head>
-        <title>Hulu</title>
-        <link rel='icon' href='/favicon.ico' />
+        <title>COMPSCINEMA</title>
+        <link rel='icon' href='/logo.png' />
       </Head>
 
       <Header />
